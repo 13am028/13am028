@@ -2,7 +2,7 @@
 
 I'm Niraporn Kovitaya (Bam), a Computer Science student.
 
-Languages:
+Languages/Skills:
 - C
 - Scala
 - Rust
