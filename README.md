@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+I'm Niraporn Kovitaya (Bam), a Computer Science student.
+
+Languages:
+- C
+- Scala
+- Rust
+- Python
+- Javascript/Typescript
+- Docker
+- Kubernetes
+- Vue
+- React
+- Java
+
+Find out more about me at: https://www.linkedin.com/in/niraporn-kovitaya-225242267/details/skills/
+Reach me at: bam_28@hotmail.com
+
+
 <!--
 **13am028/13am028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
